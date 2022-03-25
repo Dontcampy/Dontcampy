@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dontcampy
+- 👋 Hi, I’m Zhuo Chen
 - 👀 I’m interested in server development and minecraft mod development.
-- 🌱 I’m currently learning golang.
+- 🌱 Kotlin is my main programming language.
 - 📫 How to reach me? Here!
 
 <!---
