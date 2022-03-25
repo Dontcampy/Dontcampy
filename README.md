@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zhuo Chen
 - 👀 I’m interested in server development and minecraft mod development.
-- 🌱 Kotlin is my main programming language.
+- 🌱 Kotlin is my main programming language at work.
 - 📫 How to reach me? Here!
 
 <!---
