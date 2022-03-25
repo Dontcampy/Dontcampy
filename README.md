@@ -9,4 +9,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Dontcampy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dontcampy&theme=vue-dark&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dontcampy&count_private=true)
